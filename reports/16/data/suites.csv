@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5510","should display correct weather info for Los Angeles, US","web","2026-03-14","passed","2026-03-14","Weather Search - OpenWeatherMap","","",""
+"","560","Should retrieve and analyze repository information","api","2026-03-14","passed","2026-03-14","GitHub API - SeleniumHQ Organization","","",""
